@@ -1,11 +1,11 @@
-Nama 	      : Fathurrahman Pratama Putra
-NRP 	      : 152023057
-Kelas 	    : BB
-Matkul     	: Pemrograman Dasar
-No_Tugas 	  : Tugas Array
-Penjelasan 	: 
-
 Tugas Dataframe (Menggunakan Library Pandas)
+
+- Nama 	      : Fathurrahman Pratama Putra
+- NRP 	      : 152023057
+- Kelas 	      : BB
+- Matkul     	: Pemrograman Dasar
+- No_Tugas 	   : Tugas Array
+- Penjelasan 	: 
 
 Soal:
 1. Dengan menggunakan pustaka pandas di Python, buatlah sebuah DataFrame dari data jumlah produksi sampah berdasarkan Kabupaten/Kota di Jawa Barat.
