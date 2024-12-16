@@ -8,7 +8,7 @@ proc_df = df_csv.dropna()
 # No.1 - Data Produksi Sampah Provinsi Jawa Barat
 print("\nNo.1\n")
 print("Data Produksi Sampah Provinsi Jawa Barat")
-filter_data = proc_df.loc[df_csv["nama_provinsi"] == "JAWA BARAT",["nama_kabupaten_kota", "jumlah_produksi_sampah", "tahun"],]
+filter_data = proc_df.loc[proc_df["nama_provinsi"] == "JAWA BARAT",["nama_kabupaten_kota", "jumlah_produksi_sampah", "tahun"],]
 
 df_no1 = filter_data
 
