@@ -5,7 +5,7 @@ Tugas Dataframe (Menggunakan Library Pandas)
 - Kelas 	      : BB
 - Matkul     	: Pemrograman Dasar
 - No_Tugas 	   : Tugas Array
-- Penjelasan 	: 
+- Penjelasan 	: https://youtu.be/6WqAejjbfwk
 
 Soal:
 1. Dengan menggunakan pustaka pandas di Python, buatlah sebuah DataFrame dari data jumlah produksi sampah berdasarkan Kabupaten/Kota di Jawa Barat.
